@@ -17,27 +17,6 @@ All features are exposed through an easy-to-use **Streamlit Web App**.
 
 ---
 
-## 🚀 Demo
-
-👉 Add your app screenshots here:
-
-### 🎬 Streamlit App - Home Page
-![Home Page](screenshots/homepage.png)
-
-### 🎬 Genre Prediction Example
-![Genre Prediction](screenshots/genre_distribution.png)
-
-### 🎬 Popularity Prediction Example
-![Popularity Prediction](screenshots/popularity_scorce.png)
-.png)
-
-### 🎬 Batch Predictions
-![Batch Example](screenshots/batch_prediction.png)
-
-### 🎬Single Prediction
-![Single track](screenshots/single_track.png)
-
----
 
 ## 🎯 Problem Statement
 
@@ -93,4 +72,25 @@ Automatically classifying tracks by **Genre** and predicting **Popularity** can:
 
 ```plaintext
 Dataset → Data Preparation → Feature Engineering → Model Training → Evaluation → Deployment via Streamlit App
+
+## 🚀 Demo
+
+### 🎬 Streamlit App - Home Page
+![Home Page](screenshots/homepage.png)
+
+### 🎬 Genre Prediction Example
+![Genre Prediction](screenshots/genre_distribution.png)
+
+### 🎬 Popularity Prediction Example
+![Popularity Prediction](screenshots/popularity_scorce.png)
+.png)
+
+### 🎬 Batch Predictions
+![Batch Example](screenshots/batch_prediction.png)
+
+### 🎬Single Prediction
+![Single track](screenshots/single_track.png)
+
+---
+
 
