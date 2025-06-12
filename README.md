@@ -25,16 +25,16 @@ All features are exposed through an easy-to-use **Streamlit Web App**.
 ![Home Page](screenshots/home_page.png)
 
 ### 🎬 Genre Prediction Example
-![Genre Prediction]("C:\Users\kavya\OneDrive\Desktop\GUVI\Final project\screenshots\gener distribution.png")
+![Genre Prediction](screenshots/gener distribution.png)
 
 ### 🎬 Popularity Prediction Example
-![Popularity Prediction]("C:\Users\kavya\OneDrive\Desktop\GUVI\Final project\screenshots\popularity scorce.png")
+![Popularity Prediction](screenshots/popularity score.png)
 
 ### 🎬 Batch Predictions
-![Batch Example]("C:\Users\kavya\OneDrive\Desktop\GUVI\Final project\screenshots\batch prediction.png")
+![Batch Example](screenshots/batch prediction.png)
 
 ### 🎬Single Prediction
-![Single track]"C:\Users\kavya\OneDrive\Desktop\GUVI\Final project\screenshots\single track.png")
+![Single track](screenshots/single track.png)
 
 ---
 
