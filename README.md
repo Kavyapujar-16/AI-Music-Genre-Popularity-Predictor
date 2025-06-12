@@ -72,10 +72,10 @@ Automatically classifying tracks by **Genre** and predicting **Popularity** can:
 
 ```plaintext
 Dataset → Data Preparation → Feature Engineering → Model Training → Evaluation → Deployment via Streamlit App
-
+```
 ---
 
-**## 🚀 Demo**
+## 🚀 Demo
 
 ### 🎬 Streamlit App - Home Page
 ![Home Page](screenshots/homepage.png)
