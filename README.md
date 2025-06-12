@@ -22,19 +22,19 @@ All features are exposed through an easy-to-use **Streamlit Web App**.
 👉 Add your app screenshots here:
 
 ### 🎬 Streamlit App - Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/homepage.png)
 
 ### 🎬 Genre Prediction Example
-![Genre Prediction](screenshots/gener distribution.png)
+![Genre Prediction](screenshots/genre_distribution.png)
 
 ### 🎬 Popularity Prediction Example
-![Popularity Prediction](screenshots/popularity score.png)
+![Popularity Prediction](screenshots/popularity_score.png)
 
 ### 🎬 Batch Predictions
-![Batch Example](screenshots/batch prediction.png)
+![Batch Example](screenshots/batch_prediction.png)
 
 ### 🎬Single Prediction
-![Single track](screenshots/single track.png)
+![Single track](screenshots/single_track.png)
 
 ---
 
