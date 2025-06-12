@@ -28,7 +28,8 @@ All features are exposed through an easy-to-use **Streamlit Web App**.
 ![Genre Prediction](screenshots/genre_distribution.png)
 
 ### 🎬 Popularity Prediction Example
-![Popularity Prediction](screenshots/popularity_score.png)
+![Popularity Prediction](screenshots/popularity_scorce.png)
+.png)
 
 ### 🎬 Batch Predictions
 ![Batch Example](screenshots/batch_prediction.png)
