@@ -22,7 +22,7 @@ All features are exposed through an easy-to-use **Streamlit Web App**.
 👉 Add your app screenshots here:
 
 ### 🎬 Streamlit App - Home Page
-![Home Page]("C:\Users\kavya\OneDrive\Desktop\GUVI\Final project\screenshots\homepage.png")
+![Home Page](screenshots/home_page.png)
 
 ### 🎬 Genre Prediction Example
 ![Genre Prediction]("C:\Users\kavya\OneDrive\Desktop\GUVI\Final project\screenshots\gener distribution.png")
