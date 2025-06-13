@@ -78,7 +78,7 @@ Dataset → Data Preparation → Feature Engineering → Model Training → Eval
 ## 🚀 Demo
 
 ### 🎬 Streamlit App - Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](screenshots/homepage1.png)
 
 ### 🎬 Genre Prediction Example
 ![Genre Prediction](screenshots/genre_distribution.png)
